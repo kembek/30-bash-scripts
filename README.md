@@ -16,3 +16,13 @@ The second way:
 $ chmod a+x <bash-script>
 $ ./<bash-script>
 ```
+
+For example:
+
+```
+$ bash 01_first.sh
+Hello World
+$ chmod a+x <bash-script>
+$ ./01_first.sh
+Hello World
+```
